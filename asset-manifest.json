@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/gamebox-site/static/js/main.ee0d5e10.js",
+    "index.html": "/gamebox-site/index.html",
+    "main.ee0d5e10.js.map": "/gamebox-site/static/js/main.ee0d5e10.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ee0d5e10.js"
+  ]
+}
