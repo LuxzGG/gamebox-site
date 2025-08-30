@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/gamebox-site/static/js/main.4cc2b97e.js",
+    "main.js": "/gamebox-site/static/js/main.ccec7ae7.js",
     "index.html": "/gamebox-site/index.html",
-    "main.4cc2b97e.js.map": "/gamebox-site/static/js/main.4cc2b97e.js.map"
+    "main.ccec7ae7.js.map": "/gamebox-site/static/js/main.ccec7ae7.js.map"
   },
   "entrypoints": [
-    "static/js/main.4cc2b97e.js"
+    "static/js/main.ccec7ae7.js"
   ]
 }
